@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-[![squi2rel's github stats](https://github-readme-stats.vercel.app/api?username=squi2rel&bg_color=45,fad0c4,fad1ff)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squi2rel&bg_color=45,fad0c4,fad1ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squi2rel&bg_color=ffcfe9)](https://github.com/anuraghazra/github-readme-stats)
+[![squi2rel's github stats](https://github-readme-stats.vercel.app/api?username=squi2rel&bg_color=ffcfe9)](https://github.com/anuraghazra/github-readme-stats)
+[![squi2rel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=squi2rel)](https://github.com/ashutosh00710/github-readme-activity-graph)
